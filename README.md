@@ -2,7 +2,7 @@
 ## 「WLOラズパイ倶楽部: WLOラズパイ倶楽部 最新Raspbianインストールライブ」
 
 ## Peatix イベント申し込みページ
-(予定)
+https://raspi181108.peatix.com/
 
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に興味ある有志の集まりです。
